@@ -121,7 +121,7 @@ if __name__ == '__main__':
     
     # Setup wandb
     if args.wandb:
-        wandb.login(key="03455359de6e84d9bb06ffcf977c65a92e8fb8e8")
+        wandb.login(key="<your-wandb-key>")
     
     # Run single experiment
     folder_path = os.path.dirname(os.path.abspath(__file__))
@@ -140,3 +140,4 @@ if __name__ == '__main__':
     print(f"Run name: {param_str}")
     
     run_single_experiment(args)
+
