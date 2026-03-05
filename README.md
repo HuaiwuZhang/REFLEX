@@ -177,7 +177,7 @@ We introduce the major arguments of our main function here.
 
 ## Acknowledgement
 
-We referenced the model architecture and training framework from [HI-PPI](https://github.com/zqq66/HI-PPI) and [MAPE-PPI](https://github.com/wumingqi/MAPE-PPI). The multi-task gradient harmonization is based on [FetterGrad](https://github.com/DeepDTAGen/FetterGrad). Thanks for your elegant code!
+We referenced the model architecture and training framework from [HI-PPI](https://github.com/ttan6729/HI-PPI) and [MAPE-PPI](https://github.com/LirongWu/MAPE-PPI). The multi-task gradient harmonization is based on [FetterGrad](https://github.com/CSUBioGroup/DeepDTAGen). Thanks for your elegant code!
 
 ## Citation
 
