@@ -6,6 +6,8 @@ In this study, we designed a novel deep learning framework ***REFLEX*** (**RE**g
 
 ## Framework Overview
 
+<img src="modelFramework.pdf" width="1000px">
+
 The pipeline of ***REFLEX*** primarily consists of four main components:
 
 - **(a)** ***Pretrained Protein Embedder*** leverages a codebook pretrained on the STRING database to provide rapid and efficient representation of single-protein sequence and structure information;
